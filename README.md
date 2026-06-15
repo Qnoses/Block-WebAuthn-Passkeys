@@ -1,4 +1,4 @@
-# Block WebAuthn / Passkeys
+# Block WebAuthn Passkeys
 
 A userscript that blocks WebAuthn / passkey ceremonies on every site, so you're
 never prompted to create or use a passkey — while ordinary password and
