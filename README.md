@@ -70,4 +70,4 @@ site to rule the script out.
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE.md](LICENSE.md).
